@@ -1,0 +1,189 @@
+/*common*/
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul, ol {
+list-style-type: none;
+}
+/*common*/
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+
+/*header*/
+
+.logo {
+font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    display:block;
+    width: 115px;
+        height: 24px;
+    color: #4d5ae5;
+    
+}
+
+.header-logo .span-logo {
+color: #2e2f42;
+}
+
+.header-nav {
+color: #2e2f42;
+}
+
+.header-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.header-address {
+font-style: normal;
+}
+
+.header-contacts {
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+.header-link:focus,
+.header-link:hover,
+.header-contacts:hover,
+.header-contacts:focus {
+color: #404bbf;
+}
+/*header*/
+
+/*main*/
+/*section 1*/
+
+.first-section {
+    background-color: #2e2f42;;
+}
+
+.title {
+font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+}
+
+.service-button {
+    font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #fff;
+        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+            background-color: #4d5ae5;
+}
+
+.service-button:hover,
+.service-button:focus {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background-color: #404bbf;
+}
+/*section 1*/
+
+/*section 2*/
+/* ? */
+.hidden{
+    color: #fff;
+}
+/* ? */
+.second-section-title{
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.second-section-text {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+}
+/*section 2*/
+
+/*section 3*/
+.third-section{
+    background-color: #f4f4fd;
+}
+
+.title-h2{ /*also used on section header 4*/
+font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.third-section-h3 {
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+}
+
+.third-section-text {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+}
+
+/*section 3*/
+
+/*section 4*/
+
+.fourth-section-h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+ .fourth-section-text {
+    font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em
+}
+/*section 4*/
+/*main*/
+
+/*footer*/
+
+.footer {
+background-color: #2e2f42;
+}
+
+.footer-logo .span-logo {
+ color: #f4f4fd;
+}
+
+.footer-text {
+font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+}
+/*footer*/
