@@ -123,10 +123,10 @@ font-weight: 700;
 
 /*section 3*/
 .third-section {
-    background-color: #f4f4fd;
+    background-color: #FFFFFF;
 }
 
-.title-h2 { /*also used on section header 4*/
+.title-header2 { /*also used on section header 4*/
 font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -136,7 +136,7 @@ font-weight: 700;
     text-transform: capitalize
 }
 
-.third-section-h3 {
+.third-section-header3 {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -156,7 +156,7 @@ font-weight: 500;
 
 /*section 4*/
 
-.fourth-section-h3 {
+.fourth-section-header3 {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
