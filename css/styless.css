@@ -25,8 +25,6 @@ font-family: "Raleway", sans-serif;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     display:block;
-    width: 115px;
-        height: 24px;
     color: #4d5ae5;
     
 }
@@ -123,7 +121,12 @@ font-weight: 700;
 
 /*section 3*/
 .third-section {
-    background-color: #FFFFFF;
+    background-color: #f4f4fd;
+}
+
+.third-section-item {
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+        background-color: #FFFFFF;
 }
 
 .title-header2 { /*also used on section header 4*/
