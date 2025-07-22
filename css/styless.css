@@ -76,7 +76,7 @@ color: #404bbf;
 .title {
 font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -96,6 +96,7 @@ font-weight: 700;
 .service-button:focus {
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #404bbf;
+        cursor: pointer
 }
 /*section 1*/
 
@@ -121,17 +122,18 @@ font-weight: 700;
 /*section 2*/
 
 /*section 3*/
-.third-section{
+.third-section {
     background-color: #f4f4fd;
 }
 
-.title-h2{ /*also used on section header 4*/
+.title-h2 { /*also used on section header 4*/
 font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+    text-transform: capitalize
 }
 
 .third-section-h3 {
