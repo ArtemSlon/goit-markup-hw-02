@@ -24,7 +24,6 @@ font-family: "Raleway", sans-serif;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    display:block;
     color: #4d5ae5;
     
 }
@@ -86,13 +85,11 @@ font-weight: 700;
         line-height: 1.5;
         letter-spacing: 0.04em;
         color: #fff;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
             background-color: #4d5ae5;
 }
 
 .service-button:hover,
 .service-button:focus {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
         background-color: #404bbf;
         cursor: pointer
 }
@@ -125,11 +122,10 @@ font-weight: 700;
 }
 
 .third-section-item {
-    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
         background-color: #FFFFFF;
 }
 
-.title-header2 { /*also used on section header 4*/
+.title-header { /*also used on section header 4*/
 font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -139,7 +135,7 @@ font-weight: 700;
     text-transform: capitalize
 }
 
-.third-section-header3 {
+.third-section-header {
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -159,7 +155,7 @@ font-weight: 500;
 
 /*section 4*/
 
-.fourth-section-header3 {
+.fourth-section-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
